@@ -5,3 +5,4 @@ This project was part of a Web Development Certificate where I was challenged to
 In this simple blog application users can post, edit and delete blog posts, which will be displayed on the main page wall.
 
 TO RUN: node app.js
+INIT SERVER: ./mongod
